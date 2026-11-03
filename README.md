@@ -14,7 +14,6 @@ Estou no começo da minha jornada em tecnologia e adoro aprender fazendo. Gosto 
 - 🔭 **Agora estou:** construindo meu portfólio, fazendo a parte da barra de menu
 - 🌱 **Aprendendo:** Python, SQL, Git/GitHub e Figma
 - 🎯 **Procurando:** meu primeiro estágio em tecnologia (front-end, dados, automação, IA e UX/UI), em Florianópolis ou remoto
-- 🌸 **Curiosidade:** adoro quando uma interface fica bonita e fácil de usar ao mesmo tempo
 
 
 ## Ferramentas e tecnologias
